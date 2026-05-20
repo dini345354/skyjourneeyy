@@ -1,5 +1,4 @@
 /.phpunit.cache
-.env
 /node_modules
 
 /public/build
